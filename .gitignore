@@ -1,0 +1,8 @@
+# git config --global core.excludesfile /usr/local/git/exclude/exclude
+# see http://groups.google.com/group/peepcode/browse_thread/thread/fe6f9c1fc9d6e725
+ 
+# Rivals
+.project
+settings.xml
+.settings/
+ 
